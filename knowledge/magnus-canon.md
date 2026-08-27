@@ -6,13 +6,17 @@ hergebruiken mag en is gewenst (terugkerende personages versterken het kanaal).
 
 ## Biografie
 
-- Woonde **6 jaar in London** (kantoorbaan, forens, laat doorwerken, sponsje in
-  de gootsteen, carpet in de badkamer, één plafondlamp). Alle
-  "ik-deed-het-ook-fout"-anekdotes spelen dáár.
+- Woonde **6 jaar in Phoenix, Arizona** (kantoorbaan, forens, laat doorwerken,
+  sponsje in de gootsteen, carpet in de badkamer, één plafondlamp, airco
+  overal). Alle "ik-deed-het-ook-fout"-anekdotes spelen dáár.
+  **Let op (wijziging Guido, 27-08-2026):** de geleverde scripts 01–05 zeggen
+  nog "London" — vanaf script 06 is het altijd Phoenix; bij een revisie van
+  01–05 moet "London" daar ook vervangen worden. Phoenix versterkt de
+  contrasten: hitte i.p.v. kou, airco als "sealed house", geen seizoenen.
 - Is **11 jaar geleden** teruggekeerd naar Noorwegen. "Eleven years" is het
   vaste anker: geen radiator in de slaapkamer sinds 11 jaar, geen droger in
   11 jaar, drie kamers sinds 11 jaar.
-- Verdient nu **minder** dan in London — en noemt dat zonder spijt.
+- Verdient nu **minder** dan in Phoenix — en noemt dat zonder spijt.
 - Bezit **geen auto**. Woning heeft **drie kamers**, alle drie dagelijks
   gebruikt.
 - Slaapkamer: **geen radiator, raam elke nacht open**, ook bij −18 °C

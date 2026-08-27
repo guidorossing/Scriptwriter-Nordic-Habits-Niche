@@ -32,7 +32,7 @@ afgekeurd.
 
 ## Canon en continuïteit
 
-Magnus' biografische feiten en terugkerende personages (6 jaar London, 11 jaar
+Magnus' biografische feiten en terugkerende personages (6 jaar Phoenix, 11 jaar
 terug, buurvrouw Kari, grootvader in Røros, enz.) staan in
 `knowledge/magnus-canon.md`. Elk nieuw script moet daarmee consistent zijn;
 nieuwe feiten die een script introduceert worden aan dat bestand toegevoegd.

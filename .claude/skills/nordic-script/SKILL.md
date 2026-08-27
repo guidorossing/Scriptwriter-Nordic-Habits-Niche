@@ -66,7 +66,7 @@ they mark where each on-screen clip ends, so the audio can be cut per segment.
   ├─ claim / scène
   ├─ onderzoek of hard feit (nooit verzonnen; bron benoemen in de tekst)
   ├─ honesty beat waar nodig ("Now, I owe you the truth … I will not oversell you")
-  ├─ persoonlijke anekdote (London, Kari, grootvader in Røros — zie canon)
+  ├─ persoonlijke anekdote (Phoenix, Kari, grootvader in Røros — zie canon)
   ├─ het mechanisme (waarom het werkt)
   ├─ concrete instructie ("Try one tomorrow …", "Swap the bulbs tonight …")
   └─ REFRAIN (licht gevarieerd, bevat het kernkeyword)
@@ -113,7 +113,8 @@ Daarnaast de vaste beats uit de geleverde scripts:
    gemeen hadden.
 4. **Outro-formule** — "You were never X. You were only/simply Y. Subscribe.
    More next week."
-5. **Canon-anekdotes** — London (6 jaar), Kari (74, grijs wollen vest),
+5. **Canon-anekdotes** — Phoenix, Arizona (6 jaar), Kari (74, grijs wollen
+   vest),
    grootvader in Røros. Zie `knowledge/magnus-canon.md`.
 
 Het kernkeyword van de video staat in de titel, de eerste 30 seconden en
