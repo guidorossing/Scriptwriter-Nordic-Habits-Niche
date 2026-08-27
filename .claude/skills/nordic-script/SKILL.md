@@ -1,6 +1,6 @@
 ---
 name: nordic-script
-description: Het scriptplaybook voor de Nordic-lifestyle kanalen — structuur, intro-regels, terugkerende beats, word counts en avatar-markering. Gebruik bij het schrijven, herschrijven of uitbreiden van een videoscript, VO-tekst of hook voor NordicLifestyle, The Nordic Way of Nordic Wisdom.
+description: Het scriptplaybook voor de Nordic-lifestyle kanalen — structuur, intro-regels, refrain en terugkerende beats, word counts en avatar-markering. Gebruik bij het schrijven, herschrijven of uitbreiden van een videoscript, VO-tekst of hook voor NordicLifestyle, The Nordic Way of Nordic Wisdom.
 ---
 
 # Nordic script playbook
@@ -68,7 +68,8 @@ they mark where each on-screen clip ends, so the audio can be cut per segment.
   ├─ honesty beat waar nodig ("Now, I owe you the truth … I will not oversell you")
   ├─ persoonlijke anekdote (London, Kari, grootvader in Røros — zie canon)
   ├─ het mechanisme (waarom het werkt)
-  └─ concrete instructie ("Try one tomorrow …", "Swap the bulbs tonight …")
+  ├─ concrete instructie ("Try one tomorrow …", "Swap the bulbs tonight …")
+  └─ REFRAIN (licht gevarieerd, bevat het kernkeyword)
 [BRUG halverwege] één zin die de resterende items als zwaarder aankondigt
                  ("The last two are the ones people find hardest to accept …")
 [ITEM #1]        het sterkste item; bindt de hele lijst tot één idee
@@ -94,10 +95,14 @@ place it stands in").
 - Verboden: "Have you ever wondered …", "In today's video …", "Welcome back",
   elke begroeting, elke parafrase van de titel.
 
-## 5. Terugkerende beats (i.p.v. een letterlijke refrain)
+## 5. De refrain en de terugkerende beats
 
-De geleverde scripts gebruiken geen woordelijk herhaalde refrainzin, maar
-vaste beats die hetzelfde werk doen:
+**De refrain is verplicht** (besluit Guido, 27-08-2026 — scripts 01–05 misten
+hem nog; vanaf script 06 komt hij terug): één zin die na elk item terugkomt,
+licht gevarieerd, het kernkeyword van de video bevat en de items tot één idee
+bindt. Kies hem vóór het schrijven — niet achteraf erin plakken.
+
+Daarnaast de vaste beats uit de geleverde scripts:
 
 1. **Honesty beat** — minstens 1× per video zwakt Magnus zijn eigen bewijs
    eerlijk af ("That was eight men. … I am not going to inflate eight people
@@ -150,6 +155,7 @@ Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 - [ ] Kopblok met TITLE, woordtelling, lengte bij 145 wpm, avatar-telling
 - [ ] Intro herhaalt de titel letterlijk + tease + telrichting + startcommando
 - [ ] Volledig in de ik-vorm, geen outsider-framing
+- [ ] Refrain na elk item, licht gevarieerd, met het kernkeyword
 - [ ] Minstens één honesty beat; cijfers en studies kloppen (niets verzonnen)
 - [ ] Canonfeiten consistent met `knowledge/magnus-canon.md`
 - [ ] Totale woordtelling 2.030–2.320 (max ±2.400)
