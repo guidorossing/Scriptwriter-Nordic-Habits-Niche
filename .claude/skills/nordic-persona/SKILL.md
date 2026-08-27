@@ -26,6 +26,16 @@ afgekeurd.
   hoorbaar Nordic accent
 - Rustig tempo, geen YouTube-hypertoon
 - Ik-vorm, altijd
+- **Gekozen VO-stem (ElevenLabs): "Test 5", voice ID `jm40tll7b9kW0hSUxaKx`**
+  (vastgelegd 27-08-2026 in het Drive-doc "Magnus Aalberg Voices"; Tests 1–4
+  afgevallen)
+
+## Canon en continuïteit
+
+Magnus' biografische feiten en terugkerende personages (6 jaar London, 11 jaar
+terug, buurvrouw Kari, grootvader in Røros, enz.) staan in
+`knowledge/magnus-canon.md`. Elk nieuw script moet daarmee consistent zijn;
+nieuwe feiten die een script introduceert worden aan dat bestand toegevoegd.
 
 ## Schrijfregels voor zijn tekst
 
@@ -50,8 +60,11 @@ integreert avatarbeeld, VO en overige assets.
   **€ 30–50 per maand**.
 - **Schermtijd:** ± 3 minuten per video (kostenbeheersing).
 
-<!-- INVULLEN: welke tools je uiteindelijk gekozen hebt voor VO en avatar,
-     met accountnamen en maandprijs -->
+- **VO-tool: ElevenLabs** — stem "Test 5" (`jm40tll7b9kW0hSUxaKx`). Elk
+  script bevat onderaan één blok met alle avatar-segmenten voor één paste;
+  lege regels markeren de knippunten per on-screen clip.
+
+<!-- INVULLEN: avatar-tool (beeld/video) en maandprijzen van de accounts -->
 
 ## Aanleveren aan de editor
 
