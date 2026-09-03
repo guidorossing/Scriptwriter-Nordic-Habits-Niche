@@ -23,12 +23,17 @@ Zowel `.md` als `.docx` staan in `scripts/`; de Google Docs staan in Drive-map
 
 | # | Titel | Woorden | Lengte | Avatar | Drive doc-ID |
 |---|---|---|---|---|---|
-| 06 | 9 Struggles Nordic People Refuse To Accept In A Simpler Life! | 2.383 | ~16:26 | 418 w / 20 seg | `1OBw-pY4URh9dZkdo8TEmHJ1IPwMtQCQhV8AvsOsHTTE` |
-| 07 | 7 Things Nordic People Do Every Morning Before 8 AM And Make Life Easier! | 2.391 | ~16:29 | 431 w / 20 seg | `1oqcPFshrNrziIAbPTJ5uoKrJNT8kE1LYX0FZiN_QL3Y` |
-| 08 | 11 Things Nordic People Quit Doing After 40 To Live A Simpler Life! | 2.394 | ~16:31 | 436 w / 19 seg | `1rY2ztOvzgI6RA_YlwK3CenSb-QNPDRe1h8spiEqbiqc` |
-| 09 | 12 Scandinavian Cleaning Habits That Keep Homes Spotless And You Should Start Today! | 2.339 | ~16:08 | 447 w / 19 seg | `1sO7XpLMLsO_CB2zrVlWK5hhFB26lPAuli6_DVmKVwUQ` |
-| 10 | 9 Nordic Home Ideas That Save Space And Calm Your Mind | 2.385 | ~16:27 | 441 w / 19 seg | `1Vzrd9U_9xjVIAqrZdbq3QtiG9ILQpbFKxF49Pu7An1k` |
-| 11 | 13 Things You'll Never Find In A Nordic Home (And Why They're Happier)! | 2.397 | ~16:32 | 431 w / 20 seg | `1jJkU01gOzrXYIUlR7pgp7tfVC28dOnjwY2vzdcsvByw` |
+| 06 | 9 Struggles Nordic People Refuse To Accept In A Simpler Life! | 2.383 | ~16:26 | 418 w / 20 seg | `1xsGjWeIX0YlVJ_Cqf8Y10tAea84XSX-iFtQF0ql4KE8` |
+| 07 | 7 Things Nordic People Do Every Morning Before 8 AM And Make Life Easier! | 2.391 | ~16:29 | 431 w / 20 seg | `1LK3lGdbmH738SjQKi9g7K93VM0XjeNWdCKqBOUPsG_Q` |
+| 08 | 11 Things Nordic People Quit Doing After 40 To Live A Simpler Life! | 2.394 | ~16:31 | 436 w / 19 seg | `1Qp85vo0CzNwRPiM7dS6nZsrEYKG7DmDe_M7szAk0C3w` |
+| 09 | 12 Scandinavian Cleaning Habits That Keep Homes Spotless And You Should Start Today! | 2.339 | ~16:08 | 447 w / 19 seg | `1U1GUZE9Tr7j4qJNvNIUn1jAd1lJOet2afdMJEQcPvBw` |
+| 10 | 9 Nordic Home Ideas That Save Space And Calm Your Mind | 2.385 | ~16:27 | 441 w / 19 seg | `11oAsRCkvF51kkk4WcCs0eFtv47OLsA04QswEPGQeHy0` |
+| 11 | 13 Things You'll Never Find In A Nordic Home (And Why They're Happier)! | 2.397 | ~16:32 | 431 w / 20 seg | `1CG1w19KuVCzMEP8L7I5DknwdHRZuo9KfVmlBJNHmeuM` |
+
+Elk document heeft de 【AVATAR】-markering inline (voor de editor) en onderaan
+het volledige script zonder markers (voor de VO-tool). Google Docs kunnen via
+de connector niet inhoudelijk bijgewerkt worden — bij een revisie maak je een
+nieuw Doc en gooi je het oude in de prullenbak.
 
 Tellingen worden gegenereerd met `python3 tools/scriptmeta.py scripts/<bestand>.md`;
 de `.docx` met `python3 tools/md2docx.py scripts/<bestand>.md`.
