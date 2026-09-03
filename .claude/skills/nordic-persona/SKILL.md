@@ -60,9 +60,10 @@ integreert avatarbeeld, VO en overige assets.
   **€ 30–50 per maand**.
 - **Schermtijd:** ± 3 minuten per video (kostenbeheersing).
 
-- **VO-tool: ElevenLabs** — stem "Test 5" (`jm40tll7b9kW0hSUxaKx`). Elk
-  script bevat onderaan één blok met alle avatar-segmenten voor één paste;
-  lege regels markeren de knippunten per on-screen clip.
+- **VO-tool: ElevenLabs** — stem "Test 5" (`jm40tll7b9kW0hSUxaKx`). Elk script
+  bevat onderaan het volledige script zonder 【AVATAR】-markers, voor één paste:
+  de VO wordt in één keer voor de hele video gegenereerd. De markers bovenin
+  zijn voor de editor, die daar het avatarbeeld op monteert.
 
 <!-- INVULLEN: avatar-tool (beeld/video) en maandprijzen van de accounts -->
 

@@ -56,8 +56,9 @@ hergebruiken mag en is gewenst (terugkerende personages versterken het kanaal).
 
 - ElevenLabs. Gekozen stem: **Test 5 — voice ID `jm40tll7b9kW0hSUxaKx`**
   (uit "Magnus Aalberg Voices", 27-08-2026; Tests 1–4 afgevallen).
-- Alle avatar-segmenten worden onderaan elk script verzameld in één blok voor
-  één paste in ElevenLabs; lege regels markeren de knippunten per clip.
+- Onderaan elk script staat het hele script nogmaals zonder markers, voor één
+  paste in ElevenLabs (besluit Guido, 03-09-2026). De VO dekt de hele video;
+  de 【AVATAR】-markering bovenin is alleen voor de editor.
 
 ## Toegevoegd bij batch 06–11 (03-09-2026)
 

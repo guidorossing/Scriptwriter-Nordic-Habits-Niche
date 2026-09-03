@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-"""Vult het kopblok van een script en genereert het ElevenLabs-blok onderaan.
+"""Vult het kopblok van een script en zet het volledige script nogmaals onderaan.
 
 Gebruik:  python3 tools/scriptmeta.py scripts/06-*.md
 
 Het script leest alles onder de ────-lijn als de body, telt de woorden,
-verzamelt alle 【AVATAR】…【/AVATAR】-segmenten, en schrijft het bestand
-opnieuw met correcte tellingen en een compleet AVATAR SCRIPT-blok.
-Idempotent: een bestaand AVATAR SCRIPT-blok wordt vervangen.
+telt de 【AVATAR】…【/AVATAR】-segmenten, en schrijft het bestand opnieuw met
+correcte tellingen plus onderaan het hele script zonder markers — klaar om in
+één keer in de VO-tool te plakken. Idempotent: een bestaand blok wordt vervangen.
 """
 import re
 import sys
 
 WPM = 145
 RULE = "──────────────────────────────"
-FOOT = "AVATAR SCRIPT — copy everything below this line in one paste into ElevenLabs."
+FOOT = "FULL SCRIPT — copy everything below this line in one paste into the voice-over tool."
 
 
 def mmss(words):
@@ -26,7 +26,9 @@ def process(path):
     head, _, rest = text.partition(RULE)
 
     # gooi een eerder gegenereerd ElevenLabs-blok weg
-    body = rest.split(FOOT)[0].rstrip("\n ─\n")
+    for marker in (FOOT, "AVATAR SCRIPT — copy everything below this line"):
+        rest = rest.split(marker)[0]
+    body = rest.rstrip("\n ─\n")
     body = body.rstrip()
 
     segments = re.findall(r"【AVATAR】(.*?)【/AVATAR】", body, flags=re.S)
@@ -50,11 +52,14 @@ def process(path):
     lines.insert(2, stats + "\n")
     head = "\n".join(lines)
 
+    plain_body = "\n\n".join(
+        p.strip() for p in plain.split("\n\n") if p.strip()
+    )
     tail = (
         f"\n\n{RULE}\n\n{FOOT}\n"
-        "These are all avatar segments in order of appearance. Keep the blank lines:\n"
-        "they mark where each on-screen clip ends, so the audio can be cut per segment.\n"
-        f"\n{RULE}\n\n" + "\n\n".join(segments) + "\n"
+        "This is the same script as above with the \u3010AVATAR\u3011 markers removed —\n"
+        "nothing has been added or cut. Blank lines mark natural breath and cut points.\n"
+        f"\n{RULE}\n\n" + plain_body + "\n"
     )
 
     open(path, "w", encoding="utf-8").write(

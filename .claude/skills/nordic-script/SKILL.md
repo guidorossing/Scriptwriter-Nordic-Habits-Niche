@@ -36,25 +36,29 @@ TITLE: <volledige videotitel>
 Total words: X,XXX  |  Estimated length: ~MM:SS min (at 145 wpm)
 Avatar words: XXX in NN segments  |  Avatar screen time: ~M:SS min
 
-LEGEND: Text between 【AVATAR】 and 【/AVATAR】 is spoken by Magnus (the AI
-avatar) visibly on camera. All other text is voice-over with B-roll or stock
-footage. At the very bottom of this document all avatar segments are collected
-in one block for a single paste into ElevenLabs.
+LEGEND: Text between 【AVATAR】 and 【/AVATAR】 marks the passages Magnus speaks
+visibly on camera — that marking is for the editor. The complete script is
+repeated at the bottom of this document without any markers, ready to paste
+into the AI voice-over tool in one go.
 ```
 
-En eindigt met het ElevenLabs-blok:
+En eindigt met het VO-blok (besluit Guido, 03-09-2026 — hiervóór stond hier
+alleen de avatar-tekst):
 
 ```
 ──────────────────────────────
 
-AVATAR SCRIPT — copy everything below this line in one paste into ElevenLabs.
-These are all avatar segments in order of appearance. Keep the blank lines:
-they mark where each on-screen clip ends, so the audio can be cut per segment.
+FULL SCRIPT — copy everything below this line in one paste into the voice-over tool.
+This is the same script as above with the 【AVATAR】 markers removed —
+nothing has been added or cut. Blank lines mark natural breath and cut points.
 
 ──────────────────────────────
 
-<alle avatar-segmenten, in volgorde, gescheiden door lege regels>
+<het hele script, identiek aan boven, zonder markers>
 ```
+
+De VO wordt in één keer voor het hele script gegenereerd; de markers bovenin
+zijn puur voor de editor, die het avatarbeeld op die passages monteert.
 
 ## 3. Scriptstructuur
 
@@ -147,8 +151,9 @@ segmenten** ≈ 2:50–3:00 schermtijd.
 - Vaste avatar-momenten: de volledige cold open, de honesty beats, de
   scharniervragen, de persoonlijke canon-uitspraken ("There is no radiator in
   the room where I sleep …"), de slotinstructie en de outro-formule.
-- Onderaan het document komen alle segmenten nogmaals in het ElevenLabs-blok
-  (zie §2), gescheiden door lege regels als knippunten.
+- Onderaan het document staat het hele script nogmaals zonder markers (zie §2);
+  daar wordt de VO in één keer uit gegenereerd. Verzamel de avatar-segmenten
+  dus níét apart.
 
 Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 
@@ -165,7 +170,7 @@ Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 - [ ] Outro-formule aanwezig, eindigend op "Subscribe. More next week."
 - [ ] Kernkeyword in titel en eerste 30 seconden; geen "hygge", geen
       landspecifieke term als hoofdterm
-- [ ] ElevenLabs-blok onderaan compleet en identiek aan de inline segmenten
+- [ ] Volledig script onderaan zonder markers, woordelijk gelijk aan boven
 - [ ] Geleverd als `.docx`
 
 ## 9. Oplevering
@@ -173,9 +178,9 @@ Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 1. Schrijf het script naar `scripts/NN-<slug>.md` (doornummeren op de bestaande
    reeks), inclusief de 【AVATAR】-markers.
 2. `python3 tools/scriptmeta.py scripts/NN-<slug>.md` — vult het kopblok met de
-   echte woordtelling, lengte bij 145 wpm, avatar-telling en schermtijd, en
-   genereert het ElevenLabs-blok onderaan uit de inline segmenten. Idempotent:
-   herhaal na elke tekstwijziging.
+   echte woordtelling, lengte bij 145 wpm, avatar-telling en schermtijd, en zet
+   het volledige script zonder markers onderaan. Idempotent: herhaal na elke
+   tekstwijziging.
 3. `python3 tools/md2docx.py scripts/NN-<slug>.md` — maakt de `.docx`; de
    avatar-passages staan daar vet.
 4. Guido zet de `.docx` in de Drive-map **Scripts** (of vraag of je hem via de
