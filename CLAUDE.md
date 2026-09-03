@@ -28,8 +28,9 @@ scripts schrijven, scripts reviewen, en kanaalteksten (descriptions, about).
 1. **Keyword-basis.** "nordic habits" is de dominante term. "Hygge" en
    landspecifieke termen (swedish/danish/norwegian ...) presteren slecht —
    gebruik ze niet als hoofdkeyword.
-2. **Videolengte:** 14–16 minuten. Als de word-count-cap per item botst met die
-   lengte, wint de lengte — de cap mag gebroken worden.
+2. **Videolengte:** 16–18 minuten (gewijzigd 03-09-2026; scripts 01–05 zijn nog
+   14–16 min). Als de word-count-cap per item botst met die lengte, wint de
+   lengte — de cap mag gebroken worden.
 3. **Format:** countdown/listicle met een terugkerende refrain die de items
    verbindt.
 4. **Intro:** herhaalt letterlijk (deels) de videotitel — niet parafraseren.

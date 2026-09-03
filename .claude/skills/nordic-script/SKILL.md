@@ -122,18 +122,19 @@ terugkerend in de itemteksten.
 
 ## 6. Word counts
 
-Gebaseerd op de vijf geleverde scripts; reken met **145 wpm**.
+Reken met **145 wpm**. Doellengte is per 03-09-2026 **16–18 minuten**
+(besluit Guido bij batch 06–11); de oude 14–16 min uit scripts 01–05 vervalt.
 
-| Onderdeel | Richtlijn | Geleverd ( referentie) |
+| Onderdeel | Richtlijn | Batch 06–11 (referentie) |
 |---|---|---|
-| Totale video | 14–16 min ≈ **2.030–2.320 woorden** | 2.169–2.426 |
-| Cold open | 60–80 woorden | ±70 |
+| Totale video | 16–18 min ≈ **2.320–2.610 woorden** | 2.339–2.397 (~16:08–16:32) |
+| Cold open | 60–110 woorden (4–5 korte avatar-segmenten) | ±90 |
 | Per item | geen harde cap; sterkste items langst | 150–350 |
 | Outro | 60–100 woorden (avatar) | ±80 |
 
-Lengte wint van elke cap. Kom je onder 14 minuten, verleng dan de sterkste
-items in plaats van items toe te voegen. Boven ±2.400 woorden (>16:30) juist
-inkorten bij de zwakkere items.
+Lengte wint van elke cap. Kom je onder 16 minuten, verleng dan de sterkste
+items (meer mechanisme, meer contrast, meer Phoenix) in plaats van items toe
+te voegen. Boven ±2.610 woorden juist inkorten bij de zwakkere items.
 
 ## 7. Avatar-markering
 
@@ -159,7 +160,7 @@ Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 - [ ] Refrain na elk item, licht gevarieerd, met het kernkeyword
 - [ ] Minstens één honesty beat; cijfers en studies kloppen (niets verzonnen)
 - [ ] Canonfeiten consistent met `knowledge/magnus-canon.md`
-- [ ] Totale woordtelling 2.030–2.320 (max ±2.400)
+- [ ] Totale woordtelling 2.320–2.610 (16–18 min bij 145 wpm)
 - [ ] 【AVATAR】-segmenten: ±420–435 woorden, 20–27 segmenten
 - [ ] Outro-formule aanwezig, eindigend op "Subscribe. More next week."
 - [ ] Kernkeyword in titel en eerste 30 seconden; geen "hygge", geen
@@ -169,6 +170,15 @@ Referentie voor hoe de verdeling voelt: FrankMillerCuts.
 
 ## 9. Oplevering
 
-Schrijf het script naar `scripts/NN-<slug>.md` (doornummeren op de bestaande
-reeks), converteer daarna naar `.docx`. Guido zet hem zelf in de Drive-map
-(of vraag of je hem via de Drive-connector mag plaatsen).
+1. Schrijf het script naar `scripts/NN-<slug>.md` (doornummeren op de bestaande
+   reeks), inclusief de 【AVATAR】-markers.
+2. `python3 tools/scriptmeta.py scripts/NN-<slug>.md` — vult het kopblok met de
+   echte woordtelling, lengte bij 145 wpm, avatar-telling en schermtijd, en
+   genereert het ElevenLabs-blok onderaan uit de inline segmenten. Idempotent:
+   herhaal na elke tekstwijziging.
+3. `python3 tools/md2docx.py scripts/NN-<slug>.md` — maakt de `.docx`; de
+   avatar-passages staan daar vet.
+4. Guido zet de `.docx` in de Drive-map **Scripts** (of vraag of je hem via de
+   Drive-connector mag plaatsen).
+
+Verzin nooit zelf een woordtelling — laat `scriptmeta.py` hem uitrekenen.

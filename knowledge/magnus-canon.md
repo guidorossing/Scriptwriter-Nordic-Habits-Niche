@@ -58,3 +58,20 @@ hergebruiken mag en is gewenst (terugkerende personages versterken het kanaal).
   (uit "Magnus Aalberg Voices", 27-08-2026; Tests 1–4 afgevallen).
 - Alle avatar-segmenten worden onderaan elk script verzameld in één blok voor
   één paste in ElevenLabs; lege regels markeren de knippunten per clip.
+
+## Toegevoegd bij batch 06–11 (03-09-2026)
+
+- **Geen wasdroger**, al 11 jaar: rek, tørkeskap in de gang, of buiten in de
+  vorst.
+- **Vier wollen overhemden**, sommige al tien jaar; wast wol ±een kwart zo vaak
+  als katoen.
+- Heeft **drie werkelijk slechte planken** gemaakt; de derde houdt nu boeken.
+- **Eén tafel** in huis: eten, werken, post, één keer per jaar naaien. Wordt
+  tussen gebruiken leeggeruimd (werk in een doos, doos op de plank).
+- Slaapkamerraam open, geen radiator — zie boven; ontbijt is **havregrøt**,
+  elke ochtend hetzelfde, bewust geen keuze.
+- Phoenix-details (naast kantoorbaan en forenzen): **karpet in de badkamer**,
+  **één plafondlamp**, elk gebouw dichtgezegeld en machinaal gekoeld — trui
+  binnen in augustus, raam nooit open. Bleef 's avonds door tot zijn manager
+  wegging.
+- Kari: het zwemmen begon **rond haar 24e**, niet bij haar pensioen.
