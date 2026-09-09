@@ -11,17 +11,18 @@ correcte tellingen plus onderaan het hele script zonder markers — klaar om in
 import re
 import sys
 
-WPM = 145
+WPM = 145  # standaard; override met --wpm
 RULE = "──────────────────────────────"
 FOOT = "FULL SCRIPT — copy everything below this line in one paste into the voice-over tool."
 
 
-def mmss(words):
-    total = round(words / WPM * 60)
+def mmss(words, wpm=None):
+    total = round(words / (wpm or WPM) * 60)
     return f"{total // 60}:{total % 60:02d}"
 
 
-def process(path):
+def process(path, wpm=None):
+    wpm = wpm or WPM
     text = open(path, encoding="utf-8").read()
     head, _, rest = text.partition(RULE)
 
@@ -44,13 +45,23 @@ def process(path):
 
     stats = (
         f"Total words: {total_words:,}  |  "
-        f"Estimated length: ~{mmss(total_words)} min (at {WPM} wpm)\n"
-        f"Avatar words: {avatar_words} in {len(segments)} segments  |  "
-        f"Avatar screen time: ~{mmss(avatar_words)} min"
+        f"Estimated length: ~{mmss(total_words, wpm)} min (at {wpm} wpm)"
     )
+    if segments:
+        stats += (
+            f"\nAvatar words: {avatar_words} in {len(segments)} segments  |  "
+            f"Avatar screen time: ~{mmss(avatar_words, wpm)} min"
+        )
     lines = head.split("\n")
     lines.insert(2, stats + "\n")
     head = "\n".join(lines)
+
+    if not segments:
+        open(path, "w", encoding="utf-8").write(
+            head + RULE + "\n\n" + body.lstrip("\n") + "\n")
+        print(f"{path}: {total_words} words / ~{mmss(total_words, wpm)} "
+              f"(at {wpm} wpm) | geen avatar-segmenten")
+        return
 
     plain_body = "\n\n".join(
         p.strip() for p in plain.split("\n\n") if p.strip()
@@ -64,10 +75,16 @@ def process(path):
 
     open(path, "w", encoding="utf-8").write(
         head + RULE + "\n\n" + body.lstrip("\n") + tail)
-    print(f"{path}: {total_words} words / ~{mmss(total_words)} | "
-          f"avatar {avatar_words} w in {len(segments)} seg / ~{mmss(avatar_words)}")
+    print(f"{path}: {total_words} words / ~{mmss(total_words, wpm)} | "
+          f"avatar {avatar_words} w in {len(segments)} seg / ~{mmss(avatar_words, wpm)}")
 
 
 if __name__ == "__main__":
-    for p in sys.argv[1:]:
-        process(p)
+    args = sys.argv[1:]
+    wpm = None
+    if "--wpm" in args:
+        i = args.index("--wpm")
+        wpm = int(args[i + 1])
+        del args[i:i + 2]
+    for p in args:
+        process(p, wpm)
