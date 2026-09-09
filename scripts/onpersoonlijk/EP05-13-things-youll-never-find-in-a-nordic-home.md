@@ -1,6 +1,6 @@
 TITLE: 13 Things You'll Never Find In A Nordic Home (And Why They're Happier)!
 
-Total words: 2,768  |  Estimated length: ~16:17 min (at 170 wpm)
+Total words: 2,775  |  Estimated length: ~16:19 min (at 170 wpm)
 
 Reference: Faceless — "15 Things Scandinavians Never Keep in Their Living Room —
 And Why It Changes Everything", "12 Things Scandinavians Never Keep in Their Home
@@ -113,17 +113,7 @@ What is different is the baseline assumption, and the baseline assumption is wha
 
 A camera aimed at your own front door is not only a security device. It is a statement, made daily, in your own hallway, about what you expect from the people walking past your house.
 
-Number five. Bottled water in the fridge.
-
-Nobody buys drinking water here.
-
-Norwegian tap water comes largely from surface water in the mountains, it is tested constantly, and it is better than almost anything sold in a plastic bottle at two hundred times the price.
-
-But the interesting part is not the water. It is what a country loses at the moment the public version of something stops being good enough. Once the tap is not trusted, everybody buys their own supply, and the households with money exit first. Once they have exited, nobody with influence is complaining about the tap any more, so the tap gets less attention, and it gets worse.
-
-A country where everybody drinks the same water is a country that keeps the water good. That mechanism is the whole Nordic model in one sentence, and it runs the same way for schools.
-
-Number four. Wall-to-wall carpet.
+Number five. Wall-to-wall carpet.
 
 Floors here are wood, or tile, or something that can be washed. Rugs exist, but they are objects you can pick up, take outside, beat, and put back down.
 
@@ -133,7 +123,17 @@ Fitted carpet fails that test permanently. It is a floor that can never actually
 
 And once the floor can be washed, the furniture starts standing on legs, which is the other thing visitors notice and misread as a style. Sofas on legs. Beds on legs. Bathroom cabinets hung off the wall entirely with clear floor underneath. A mop goes under all of that in one pass. It does not go under a plinth, which is why there is a small archaeological site beneath most sofas in the world.
 
-Everything so far has been an object. The last three are about what a house is allowed to say, and that is where the happiness question in the title actually gets answered.
+Number four. Bottled water in the fridge.
+
+Nobody buys drinking water here.
+
+Norwegian tap water comes largely from surface water in the mountains, it is tested constantly, and it is better than almost anything sold in a plastic bottle at two hundred times the price.
+
+But the interesting part is not the water. It is what a country loses at the moment the public version of something stops being good enough. Once the tap is not trusted, everybody buys their own supply, and the households with money exit first. Once they have exited, nobody with influence is complaining about the tap any more, so the tap gets less attention, and it gets worse.
+
+A country where everybody drinks the same water is a country that keeps the water good. That mechanism is the whole Nordic model in one sentence, and it runs the same way for schools.
+
+Everything so far has been an object you could remove this weekend. The last three are decisions that were made long before the house was finished, and that is where the happiness question in the title actually gets answered.
 
 Number three. A bedroom with no window.
 

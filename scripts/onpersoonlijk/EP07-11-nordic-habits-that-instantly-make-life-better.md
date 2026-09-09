@@ -1,6 +1,6 @@
 TITLE: 11 Nordic Habits That INSTANTLY Make Life Better - Try Today!
 
-Total words: 2,822  |  Estimated length: ~16:36 min (at 170 wpm)
+Total words: 2,823  |  Estimated length: ~16:36 min (at 170 wpm)
 
 Reference: "15 Japanese Ideas That INSTANTLY Make Life Better — And You Should
 Try These"
@@ -104,19 +104,7 @@ What is not in dispute is what it does to a week: a fixed, unavoidable appointme
 
 And the sauna is not the only route to it. The transferable part is a recurring hour, on the same days, that has no output and cannot be moved because something more urgent appeared.
 
-Number four. Treat being outdoors as a named, ordinary part of life.
-
-Norwegian has a word for it — friluftsliv, open-air life — and it is not marketing. The term was put into circulation by the playwright Henrik Ibsen in a poem in 1859, and it has been part of how the region describes itself ever since.
-
-What separates it from what most countries call exercise is the absence of a goal. Friluftsliv is not training, it has no target and no measurement, and it does not require equipment or scenery. A walk to the end of a jetty and back counts. Twenty minutes in a city park in the dark counts.
-
-And it is defended by law. Norway's Outdoor Recreation Act of 1957 gives everyone the right to walk, cycle, ski, pick berries and mushrooms and camp for a night on uncultivated land they do not own, without asking permission — with a matching duty to leave no trace, keep distance from houses and take the rubbish home.
-
-A country that writes that down produces people who go outside without planning it. It also removes the excuse, because the weather stops being a veto. There is a sentence every child in Norway hears before they can read — det finnes ikke dårlig vær, bare dårlige klær, there is no bad weather, only bad clothing — and outside the region it is a fridge magnet, while inside it, it functions closer to a building code for a person.
-
-Everything so far has been something to start. The last three are about how a Nordic home decides, and that is where the real saving is.
-
-Number three. Look for it second-hand first.
+Number four. Look for it second-hand first.
 
 In Eskilstuna in Sweden there is a shopping centre called ReTuna. It opened in 2015 and, as far as anyone can establish, it was the first of its kind anywhere: an entire mall in which the shops sell only repaired and second-hand goods. Unwanted items are dropped at a recycling depot at the entrance, repaired inside the building, and put on sale in the shops.
 
@@ -127,6 +115,18 @@ And the culture around it is much older than the building. Loppis in Sweden, bru
 Repair sits alongside it. On the first of January 2017 Sweden cut value-added tax on repairs from twenty-five percent to twelve — bicycles, shoes, clothes, leather goods, household linen — after a government concluded that throw-away culture was an arithmetic problem rather than a moral one, and changed the arithmetic. And the skill is not rare here either: sløyd, woodwork and metalwork and textiles, is a school subject taught to everybody for years, so competence is issued by the state at nine years old rather than inherited from a handy parent.
 
 The version that works anywhere is ten minutes long. Before the next non-food purchase, spend ten minutes looking for it used. Then buy it new if necessary, with a clear conscience.
+
+Everything so far has been a single action you can take tonight. The last three are arrangements — things you set up once and then live inside.
+
+Number three. Treat being outdoors as a named, ordinary part of life.
+
+Norwegian has a word for it — friluftsliv, open-air life — and it is not marketing. The term was put into circulation by the playwright Henrik Ibsen in a poem in 1859, and it has been part of how the region describes itself ever since.
+
+What separates it from what most countries call exercise is the absence of a goal. Friluftsliv is not training, it has no target and no measurement, and it does not require equipment or scenery. A walk to the end of a jetty and back counts. Twenty minutes in a city park in the dark counts.
+
+And it is defended by law. Norway's Outdoor Recreation Act of 1957 gives everyone the right to walk, cycle, ski, pick berries and mushrooms and camp for a night on uncultivated land they do not own, without asking permission — with a matching duty to leave no trace, keep distance from houses and take the rubbish home.
+
+A country that writes that down produces people who go outside without planning it. It also removes the excuse, because the weather stops being a veto. There is a sentence every child in Norway hears before they can read — det finnes ikke dårlig vær, bare dårlige klær, there is no bad weather, only bad clothing — and outside the region it is a fridge magnet, while inside it, it functions closer to a building code for a person.
 
 Number two. Make the right movement the easy one.
 

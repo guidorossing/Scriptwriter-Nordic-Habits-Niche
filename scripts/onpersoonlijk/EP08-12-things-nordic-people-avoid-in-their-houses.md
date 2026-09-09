@@ -1,6 +1,6 @@
 TITLE: 12 Things Nordic People Avoid In Their Houses - You Should Copy Today!
 
-Total words: 2,745  |  Estimated length: ~16:09 min (at 170 wpm)
+Total words: 2,750  |  Estimated length: ~16:11 min (at 170 wpm)
 
 Reference: "16 9 AD1 PACK 6 MPRO GANCHO B"
 (https://www.youtube.com/watch?v=xKf_zekijv4)
@@ -102,19 +102,7 @@ The honest limit is worth stating here too — frost does not sterilise anything
 
 The consequence is a longer life for everything. Wool washed rarely lasts decades. Wool washed weekly does not. Which is why rugs here are objects you can pick up and carry outside, and fitted carpet is not something you find — a floor covering that can never actually be cleaned, only treated on top, holding everything the years put into it.
 
-Everything so far has been about maintenance. The last five are about what the house was decided to be for, and that is where the real cost sits.
-
-Number five. Keeping a room for occasions.
-
-There is no good living room here. No dining room held ready for a Christmas that happens once a year. No guest bedroom functioning as a museum for eleven months out of twelve.
-
-Run the arithmetic on the alternative, because it is brutal. Four rooms, one of them kept nice for visitors, means a quarter of the rent or the mortgage is being spent to store furniture for people who are not coming.
-
-Nordic homes tend to be smaller than the ones this video is being watched in, and the culture is honest about the trade: fewer square metres, all of them alive. A guest sleeps on a sofa bed in a room that already does something else, and nobody in the building experiences that as a failure of hospitality.
-
-If there is a room in a home that nobody has sat in this week, it is not a spare room. It is a room being paid for and not used.
-
-Number four. Giving the best storage to the things nobody touches.
+Number five. Giving the best storage to the things nobody touches.
 
 There is a metre of empty space above every internal door in almost every house on earth, and Nordic homes are relentless about that kind of forgotten geometry. Shelves in the last thirty centimetres below the ceiling, for things touched twice a year. Drawers built into stair treads. A hatch into the roof space. Drawers under the bed rather than a void where objects go to be lost.
 
@@ -123,6 +111,18 @@ And in most Swedish and Norwegian apartment buildings there is a bod — a stora
 The rule underneath is one sentence. Things used daily live at hand height, in the room. Things used monthly live high or low. Things used twice a year leave the living space entirely.
 
 Most homes get this exactly backwards, handing prime hand-height space at the front of the cupboard to objects that have not been touched in two years. Storage is not measured in cubic metres. It is measured in how far a hand has to travel to the thing it needs.
+
+Everything so far has been about maintenance. The last four are about what the house was decided to be for, and who it is for, and that is where the real cost sits.
+
+Number four. Keeping a room for occasions.
+
+There is no good living room here. No dining room held ready for a Christmas that happens once a year. No guest bedroom functioning as a museum for eleven months out of twelve.
+
+Run the arithmetic on the alternative, because it is brutal. Four rooms, one of them kept nice for visitors, means a quarter of the rent or the mortgage is being spent to store furniture for people who are not coming.
+
+Nordic homes tend to be smaller than the ones this video is being watched in, and the culture is honest about the trade: fewer square metres, all of them alive. A guest sleeps on a sofa bed in a room that already does something else, and nobody in the building experiences that as a failure of hospitality.
+
+If there is a room in a home that nobody has sat in this week, it is not a spare room. It is a room being paid for and not used.
 
 Number three. Letting one person carry the whole house.
 
