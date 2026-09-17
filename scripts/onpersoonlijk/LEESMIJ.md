@@ -27,6 +27,25 @@ Google Docs staan in Drive-map `1oYtAbLmuV5o6FRCFXQsqe1_WOdAxHSyV`.
 - Verteller staat nog steeds *binnen* de cultuur ("here", "in this country") —
   projectregel 7 geldt ook zonder avatar.
 
+## Batch 2 — 17-09-2026, 13–14 minuten
+
+Twee scripts, zelfde faceless opzet, kortere doellengte (13–14 min = **2.210–2.380
+woorden** bij 170 wpm). Referentie: Drive-doc "12 Things Nordic People Avoid To
+Live A Simpler Life" (`1Xzvlt0C3foJH49JXCbBFY6HyrNyee-Rn`) — alleen voor toon en
+format; alle items zijn nieuw, geen enkel item uit de bron overgenomen.
+
+| EP | Titel | Woorden | Lengte (170 wpm) |
+|---|---|---|---|
+| 9 | 10 Things Nordic People Avoid To Live A Simpler Life | 2.264 | ~13:19 |
+| 10 | 10 Nordic Habits For A Simple Life - Start Them Today! | 2.275 | ~13:23 |
+
+EP. 9 loopt over geld, administratie en instituties; de rode draad is dat er in
+deze landen structureel mínder bewezen hoeft te worden. EP. 10 loopt over de vorm
+van de dag en van een jeugd; item #1 is dat een jeugd hier geen investering is.
+De twee delen geen enkel item, en ook niet met EP. 5–8.
+
+Nog niet in Drive geplaatst.
+
 ## Volgorde-correctie (09-09-2026)
 
 Na controle van de countdown-opbouw (zwakste onderaan, sterkste op 1):
